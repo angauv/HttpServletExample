@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HttpServletExample</string>
+    <string name="hello">Accessing Servlet from Android</string>
+    <string name="button">Invoke Servlet</string>
+</resources>
